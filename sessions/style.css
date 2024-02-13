@@ -1,0 +1,19 @@
+h1 {
+    background-color: red;
+    color: blue;
+}
+.de {
+    background-color: green;
+    color: green;
+}
+.fontsize {
+    font-size: 200px;
+}
+.form
+    {
+        background-color: red;
+    }
+    .input
+    {
+        background-color: blue;
+    }
